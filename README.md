@@ -25,8 +25,9 @@ deliverables: '1 HTML file, 1 CSS file'
 ## Details
 
 - *Typefaces:* `Crimson Text`
+- *Left/right text padding:* `1rem`
 - *Standard media query widths:* `38em`, `60em`, `90em`
-- *For the best vertical rhythm:* remove the top margins from things & add bottom margins equal to the line-height.
+- *For the best vertical rhythm:* remove the top margins from things & add bottom margins equal to the line-height. [Follow the font-size and margin settings in the screen sizes cheat sheet.](https://learn-the-web.algonquindesign.ca/topics/screen-sizes-cheat-sheet/)
 
 ---
 
